@@ -1,0 +1,4 @@
+{
+    "webApiURL": "http://47.110.248.80:7589/simulation",
+    "webRealURL":"http://47.110.248.80:7589/real"
+}
